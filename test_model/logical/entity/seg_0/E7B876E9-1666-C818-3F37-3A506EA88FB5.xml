@@ -15,4 +15,20 @@
 <minVolumes>0</minVolumes>
 <normalForm>Third</normalForm>
 <createSurrogateKey>true</createSurrogateKey>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="test1" id="F4E3E4FE-A602-9204-B1D0-23268EE96FCB">
+<createdBy>dima</createdBy>
+<createdTime>2023-06-07 10:58:18 UTC</createdTime>
+<ownerDesignName>test_model</ownerDesignName>
+<engineerTo>
+<item key="B20A86E5-164E-FB2F-88DA-9399B44A141F" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT025</logicalDatatype>
+<dataTypeSize>12</dataTypeSize>
+<ownDataTypeParameters>12,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
 </Entity>
